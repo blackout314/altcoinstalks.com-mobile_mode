@@ -13,4 +13,4 @@ first version
 ## demo
 
 ### home
-![](assets/0-home.png)
+![](https://talkimg.com/images/2024/10/24/K6Lw2.png)
